@@ -13,4 +13,4 @@ $ pip install keras -U --pre
 ```
 
 # Code organization
-Dblurring_Network.ipynb   --  Run the training of our deblurring network
+Deblurring_Network.ipynb   --  Run the training of our deblurring network
