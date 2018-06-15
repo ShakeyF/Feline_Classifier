@@ -11,3 +11,6 @@ Feline_Classifier with CNN and ImageNet input and blurred image input.
 ```
 $ pip install keras -U --pre
 ```
+
+# Code organization
+Dblurring_Network.ipynb   --  Run the training of our deblurring network
