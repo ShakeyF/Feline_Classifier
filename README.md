@@ -24,6 +24,9 @@ data_establish.ipynb       --  Run to resize and blur all the images in the root
 VGG16_NET.ipynb            --  Run the training of our classification network with VGG16 model<br>
 ALEX_NET.ipynb             --  Run the training of our classification network with AlexNet model<br>
 Deblurring_Network.ipynb   --  Run the training of our deblurring network<br>
-demo.ipynb                 --  Run a demo of our deblur and classification code (required utils, trained model and images all available on Google drive. Have open to TA Sneha. Link:https://drive.google.com/open?id=18WDIGNO6KX9ycZ1ca7ZeqbkON9mcJIPQ)<br>
 utils.py                   --  The functions our demo will need<br>
 /data                      --  Three datasets of different blur kernel sizes for model training.<br>
+/data/testimage            --  Test images for our demo<br>
+demo.ipynb                 --  Run a demo of our deblur and classification code (required trained model all available on Google drive. Link:<br> 
+* Classification:https://drive.google.com/open?id=1tLaQOyBAPX-QeDmSm7GI2ZP0sq5Dud--; 
+* Deblurring: https://drive.google.com/open?id=1ak8JF5S9VzWb-D3tzG2iY1R83dY4tlB0)<br>
