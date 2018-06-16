@@ -3,7 +3,12 @@
 Feline_Classifier with CNN construction and ImageNet input and blurred image input.
 
 # Requirements
+## Data Generation
 
+* To pack data into '.hz' files, we need dataIO package. Install as follow:
+```
+$ pip install dataIO
+```
 ## Deblurring Network
 
 * Tensorflow is needed.<br>
